@@ -1,0 +1,108 @@
+Getting access token...
+client_id=test-client&client_secret=c05426ab-4c8f-4a9f-8281-9d5eee3a84b6&username=testuser&password=password&grant_type=password
+Tokens: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIxMTU2ZDM5Ny0zMGEyLTQ5YzEtOGM0OS05NGRhNDBkZDU3NWYiLCJleHAiOjE0OTIxOTc3NTMsIm5iZiI6MCwiaWF0IjoxNDkxNzY1NzUzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjMzMDBiMmM0LWVlNGUtNDBjNi04MThjLWIxNGM3NGZmY2RkZCIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjlkY2E0MmZmLWYyYTMtNDk0Mi05OWM1LTEwMzBjZTQ2NDg2MyIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.SawsZ0DImEDgN55phHCvdeg0zTF46Fmj1FS9e4zzEnEOS8TTXjFUVY3-UN0t6NZckIgW1yyYDL4_UKXu1XWhHvPhw6ck3TEqQCeZlo0rhpE_eC5TgspvtLnvFAngiKjb1yqFLhxFtmK-u1YCuIyLyAufZHu9s65yiSW0MjABDI3_6ogSP3CqC4oRE-hpY2yqALa__ciSCxZG84n_St09vgc2rImpT23nW4Bn5E9IWorZOyG-Zj5j0n8IOg_o2IAaup797Ly7sYIArMcS9j-UcrRfaO4jZfvB3Nb20rvgazcvESZIJmySQeqXHQwf1d_UW_JzY7r3-PZJwQV0tEa9HQ","expires_in":432000,"refresh_expires_in":1800,"refresh_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI2ZjEzNTMwOC02ZmVhLTQyNmItODE5NC00MjFkOTBiMjA3ZWMiLCJleHAiOjE0OTE3Njc1NTMsIm5iZiI6MCwiaWF0IjoxNDkxNzY1NzUzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoidGVzdC1jbGllbnQiLCJhdXRoX3RpbWUiOjAsInNlc3Npb25fc3RhdGUiOiIzMzAwYjJjNC1lZTRlLTQwYzYtODE4Yy1iMTRjNzRmZmNkZGQiLCJjbGllbnRfc2Vzc2lvbiI6IjlkY2E0MmZmLWYyYTMtNDk0Mi05OWM1LTEwMzBjZTQ2NDg2MyIsInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19fQ.jJ_UFcullmlp26rqBwOB6mqGNEl9rR3BEOedRfvh6AwHDdP6cr4v0F3Rev81vNP6QEpEuCr6GZh2u-U3tiq8yiUxcw76J1mOCZCdKyKxa2uQU3rVenbr25IJ7oJZYJ2cuxPITisp6wbh_UO_J04kNyXUirJ-h7GwwlEHoKpqnmbOx7IpoZk0pGe01cEZMlZIgQYMZIdXObIYuM4kc6jvAYHPX8ioRQ1lJEsKUkrjpBI9fHBddVRVpLnmNCMH4LkOAj3h7kk7mArYCXW58u57CHRG3Fcc7SwiQb1s5UVw0t2JAW2-Li-ef1fmG_rFyrc1Tt7_pWQpgzVDBY33eeaQcQ","token_type":"bearer","id_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiJhZWY3MmVhOC05ZWM5LTRiZjQtOTBiMy05Mjc4OTkwMWRmOWQiLCJleHAiOjE0OTIxOTc3NTMsIm5iZiI6MCwiaWF0IjoxNDkxNzY1NzUzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJJRCIsImF6cCI6InRlc3QtY2xpZW50IiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMzMwMGIyYzQtZWU0ZS00MGM2LTgxOGMtYjE0Yzc0ZmZjZGRkIiwiYWNyIjoiMSIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImdpdmVuX25hbWUiOiJ0ZXN0dXNlciJ9.U5WrdldgoqQ3jjeHKMEW02D_YvNa-T3guHZQSvZjWhE32pVcSEn-gIj4Q42Z-4riCQtQywr6oBna_rLegjEoMyVH1fsv4HGIeBIlfvAdzH8KEVx0vvOlj2-loskP6a1-tpUCgPNOJn5Yjc4yuYzBzxsE-npck4go3x2Nx3fOXrOEb3yx_GV0Rm1YNw-NE-ts9eTT5V4VA5g9NuZ9pYA_5ziTH5P386bvBSqJzABrSnpuBgCNG80Ei876Iyv5K4tPIIME_It-OG5sSdri1avapX1R_5WMCY-P-K7GWTpDSqYAcD_X4IBFQPQV7yCoa2W_2BpcrcbpeROEjQECTTPMng","not-before-policy":0,"session_state":"3300b2c4-ee4e-40c6-818c-b14c74ffcddd"}
+Access token: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIxMTU2ZDM5Ny0zMGEyLTQ5YzEtOGM0OS05NGRhNDBkZDU3NWYiLCJleHAiOjE0OTIxOTc3NTMsIm5iZiI6MCwiaWF0IjoxNDkxNzY1NzUzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjMzMDBiMmM0LWVlNGUtNDBjNi04MThjLWIxNGM3NGZmY2RkZCIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjlkY2E0MmZmLWYyYTMtNDk0Mi05OWM1LTEwMzBjZTQ2NDg2MyIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.SawsZ0DImEDgN55phHCvdeg0zTF46Fmj1FS9e4zzEnEOS8TTXjFUVY3-UN0t6NZckIgW1yyYDL4_UKXu1XWhHvPhw6ck3TEqQCeZlo0rhpE_eC5TgspvtLnvFAngiKjb1yqFLhxFtmK-u1YCuIyLyAufZHu9s65yiSW0MjABDI3_6ogSP3CqC4oRE-hpY2yqALa__ciSCxZG84n_St09vgc2rImpT23nW4Bn5E9IWorZOyG-Zj5j0n8IOg_o2IAaup797Ly7sYIArMcS9j-UcrRfaO4jZfvB3Nb20rvgazcvESZIJmySQeqXHQwf1d_UW_JzY7r3-PZJwQV0tEa9HQ
+{"rpt":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIxMTU2ZDM5Ny0zMGEyLTQ5YzEtOGM0OS05NGRhNDBkZDU3NWYiLCJleHAiOjE0OTIxOTc3NTMsIm5iZiI6MCwiaWF0IjoxNDkxNzY1NzUzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjMzMDBiMmM0LWVlNGUtNDBjNi04MThjLWIxNGM3NGZmY2RkZCIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjlkY2E0MmZmLWYyYTMtNDk0Mi05OWM1LTEwMzBjZTQ2NDg2MyIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJhdXRob3JpemF0aW9uIjp7InBlcm1pc3Npb25zIjpbeyJzY29wZXMiOlsiYWRtaW4iXSwicmVzb3VyY2Vfc2V0X2lkIjoiNTU4NmQzYTYtOTA1My00OGNjLTgzYjUtNWE0MzM5YWE2YTA2IiwicmVzb3VyY2Vfc2V0X25hbWUiOiJNeVNwYWNlIn1dfX0.ab7C3WAqZCg5V3Kf-9q0kk6w4GU37H2vI1EIcuMUOg27zpyk4HCG9GShhzgX_RzUFgWW_IpaqhXxN5V8NhxFJJ3cRBfruKptbhuNtX2ODdxG-VqDozjLfMjfu7uLkJG4CnfR62IBAwKArnHcUVSKcCNA9NOlKpEgGKod3j37RdvWFnvzz2z9kLo_z9TGd2f00gAyeHXS3hu1zPZ9wm8wyfag5A-8QzYZUbWcP1l2OosGpuQ-k-32CG-tj3nYDgtP4o17gx8DhTk3PDsr3s8CT7zxI4toBvpAhbhBTElhaP5mmFtyLZSdwZimjDxUUPOoPi6-12mpfQf5B98q16g6Ng"}10
+Requests      [total, rate]            300, 10.03
+Duration      [total, attack, wait]    30.018607748s, 29.899999911s, 118.607837ms
+Latencies     [mean, 50, 95, 99, max]  127.482329ms, 121.685452ms, 149.75691ms, 253.703724ms, 410.675437ms
+Bytes In      [total, mean]            476400, 1588.00
+Bytes Out     [total, mean]            15000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:300  
+Error Set:
+50
+Requests      [total, rate]            1500, 50.03
+Duration      [total, attack, wait]    30.267232419s, 29.979999725s, 287.232694ms
+Latencies     [mean, 50, 95, 99, max]  132.628767ms, 121.0529ms, 215.140511ms, 313.473498ms, 502.175696ms
+Bytes In      [total, mean]            2382000, 1588.00
+Bytes Out     [total, mean]            75000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:1500  
+Error Set:
+100
+Requests      [total, rate]            3000, 100.03
+Duration      [total, attack, wait]    30.109224557s, 29.989999393s, 119.225164ms
+Latencies     [mean, 50, 95, 99, max]  141.834993ms, 118.712441ms, 287.768478ms, 558.347589ms, 829.815258ms
+Bytes In      [total, mean]            4764000, 1588.00
+Bytes Out     [total, mean]            150000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:3000  
+Error Set:
+150
+Requests      [total, rate]            4500, 150.03
+Duration      [total, attack, wait]    30.111693033s, 29.993329759s, 118.363274ms
+Latencies     [mean, 50, 95, 99, max]  130.911399ms, 119.656788ms, 182.731314ms, 346.610608ms, 595.55084ms
+Bytes In      [total, mean]            7146000, 1588.00
+Bytes Out     [total, mean]            225000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:4500  
+Error Set:
+200
+Requests      [total, rate]            6000, 200.03
+Duration      [total, attack, wait]    31.356748986s, 29.994999401s, 1.361749585s
+Latencies     [mean, 50, 95, 99, max]  259.865468ms, 122.292297ms, 1.326053834s, 2.256002118s, 2.626675288s
+Bytes In      [total, mean]            9528000, 1588.00
+Bytes Out     [total, mean]            300000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:6000  
+Error Set:
+250
+Requests      [total, rate]            7500, 250.03
+Duration      [total, attack, wait]    30.113405415s, 29.995999667s, 117.405748ms
+Latencies     [mean, 50, 95, 99, max]  191.557131ms, 125.242889ms, 478.626082ms, 922.041453ms, 1.673742568s
+Bytes In      [total, mean]            11910000, 1588.00
+Bytes Out     [total, mean]            375000, 50.00
+Success       [ratio]                  100.00%
+Status Codes  [code:count]             200:7500  
+Error Set:
+300
+Requests      [total, rate]            9000, 300.03
+Duration      [total, attack, wait]    30.1370936s, 29.996663169s, 140.430431ms
+Latencies     [mean, 50, 95, 99, max]  120.959798ms, 110.583994ms, 153.844418ms, 316.276415ms, 823.550558ms
+Bytes In      [total, mean]            945000, 105.00
+Bytes Out     [total, mean]            450000, 50.00
+Success       [ratio]                  0.00%
+Status Codes  [code:count]             403:9000  
+Error Set:
+403 Forbidden
+350
+Requests      [total, rate]            10500, 350.03
+Duration      [total, attack, wait]    30.117245789s, 29.997133353s, 120.112436ms
+Latencies     [mean, 50, 95, 99, max]  126.831649ms, 109.18172ms, 246.682575ms, 391.032426ms, 656.955445ms
+Bytes In      [total, mean]            1102500, 105.00
+Bytes Out     [total, mean]            525000, 50.00
+Success       [ratio]                  0.00%
+Status Codes  [code:count]             403:10500  
+Error Set:
+403 Forbidden
+400
+Requests      [total, rate]            12000, 400.03
+Duration      [total, attack, wait]    30.125323501s, 29.997499378s, 127.824123ms
+Latencies     [mean, 50, 95, 99, max]  119.908085ms, 108.982619ms, 156.273056ms, 263.666319ms, 596.473732ms
+Bytes In      [total, mean]            1260000, 105.00
+Bytes Out     [total, mean]            600000, 50.00
+Success       [ratio]                  0.00%
+Status Codes  [code:count]             403:12000  
+Error Set:
+403 Forbidden
+450
+Requests      [total, rate]            13500, 450.03
+Duration      [total, attack, wait]    30.109239458s, 29.997774367s, 111.465091ms
+Latencies     [mean, 50, 95, 99, max]  173.282809ms, 111.884679ms, 491.925418ms, 1.301805692s, 5.726971138s
+Bytes In      [total, mean]            1417500, 105.00
+Bytes Out     [total, mean]            675000, 50.00
+Success       [ratio]                  0.00%
+Status Codes  [code:count]             403:13500  
+Error Set:
+403 Forbidden
+500
+Requests      [total, rate]            15000, 500.03
+Duration      [total, attack, wait]    30.136904436s, 29.997999533s, 138.904903ms
+Latencies     [mean, 50, 95, 99, max]  125.235423ms, 107.728821ms, 181.111052ms, 542.414381ms, 993.354994ms
+Bytes In      [total, mean]            1575000, 105.00
+Bytes Out     [total, mean]            750000, 50.00
+Success       [ratio]                  0.00%
+Status Codes  [code:count]             403:15000  
+Error Set:
+403 Forbidden

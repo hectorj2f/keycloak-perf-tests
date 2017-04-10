@@ -1,0 +1,1234 @@
+Getting access token...
+10
+1 requests done.
+2 requests done.
+4 requests done.
+5 requests done.
+7 requests done.
+9 requests done.
+All requests done.
+
+Summary:
+  Total:	3.8025 secs
+  Slowest:	0.9346 secs
+  Fastest:	0.3017 secs
+  Average:	0.3802 secs
+  Requests/sec:	2.6299
+  Total data:	38660 bytes
+  Size/request:	3866 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.0116 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.1159 secs
+
+	DNS-lookup:
+  		Average:	0.0013 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.0131 secs
+
+	Request Write:
+  		Average:	0.0003 secs
+  		Fastest:	0.0002 secs
+  		Slowest:	0.0004 secs
+
+	Response Wait:
+  		Average:	0.3678 secs
+  		Fastest:	0.3009 secs
+  		Slowest:	0.8177 secs
+
+	Response Read:
+  		Average:	0.0003 secs
+  		Fastest:	0.0002 secs
+  		Slowest:	0.0004 secs
+
+Status code distribution:
+  [200]	10 responses
+
+Response time histogram:
+  0.302 [1]	|∎∎∎∎∎∎
+  0.365 [7]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.428 [1]	|∎∎∎∎∎∎
+  0.492 [0]	|
+  0.555 [0]	|
+  0.618 [0]	|
+  0.681 [0]	|
+  0.745 [0]	|
+  0.808 [0]	|
+  0.871 [0]	|
+  0.935 [1]	|∎∎∎∎∎∎
+
+Latency distribution:
+  10% in 0.3061 secs
+  25% in 0.3073 secs
+  50% in 0.3081 secs
+  75% in 0.4064 secs
+  90% in 0.9346 secs
+100
+1 requests done.
+3 requests done.
+5 requests done.
+7 requests done.
+9 requests done.
+11 requests done.
+13 requests done.
+14 requests done.
+16 requests done.
+18 requests done.
+20 requests done.
+22 requests done.
+23 requests done.
+24 requests done.
+25 requests done.
+27 requests done.
+29 requests done.
+30 requests done.
+32 requests done.
+34 requests done.
+36 requests done.
+38 requests done.
+39 requests done.
+41 requests done.
+42 requests done.
+44 requests done.
+46 requests done.
+48 requests done.
+50 requests done.
+52 requests done.
+54 requests done.
+56 requests done.
+58 requests done.
+60 requests done.
+62 requests done.
+64 requests done.
+65 requests done.
+67 requests done.
+69 requests done.
+70 requests done.
+72 requests done.
+73 requests done.
+75 requests done.
+76 requests done.
+77 requests done.
+78 requests done.
+80 requests done.
+81 requests done.
+83 requests done.
+84 requests done.
+86 requests done.
+87 requests done.
+89 requests done.
+91 requests done.
+93 requests done.
+94 requests done.
+96 requests done.
+98 requests done.
+All requests done.
+
+Summary:
+  Total:	29.8910 secs
+  Slowest:	0.8055 secs
+  Fastest:	0.2333 secs
+  Average:	0.2989 secs
+  Requests/sec:	3.3455
+  Total data:	386600 bytes
+  Size/request:	3866 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.0045 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.4530 secs
+
+	DNS-lookup:
+  		Average:	0.0022 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.2189 secs
+
+	Request Write:
+  		Average:	0.0003 secs
+  		Fastest:	0.0001 secs
+  		Slowest:	0.0011 secs
+
+	Response Wait:
+  		Average:	0.2934 secs
+  		Fastest:	0.2326 secs
+  		Slowest:	0.8047 secs
+
+	Response Read:
+  		Average:	0.0006 secs
+  		Fastest:	0.0001 secs
+  		Slowest:	0.0086 secs
+
+Status code distribution:
+  [200]	100 responses
+
+Response time histogram:
+  0.233 [1]	|∎
+  0.290 [60]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.348 [23]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.405 [5]	|∎∎∎
+  0.462 [6]	|∎∎∎∎
+  0.519 [1]	|∎
+  0.577 [2]	|∎
+  0.634 [0]	|
+  0.691 [0]	|
+  0.748 [1]	|∎
+  0.805 [1]	|∎
+
+Latency distribution:
+  10% in 0.2381 secs
+  25% in 0.2424 secs
+  50% in 0.2557 secs
+  75% in 0.3170 secs
+  90% in 0.4103 secs
+  95% in 0.5097 secs
+  99% in 0.8055 secs
+1000
+2 requests done.
+3 requests done.
+5 requests done.
+6 requests done.
+8 requests done.
+10 requests done.
+11 requests done.
+13 requests done.
+15 requests done.
+16 requests done.
+17 requests done.
+19 requests done.
+21 requests done.
+22 requests done.
+24 requests done.
+25 requests done.
+27 requests done.
+28 requests done.
+30 requests done.
+32 requests done.
+34 requests done.
+36 requests done.
+38 requests done.
+39 requests done.
+41 requests done.
+43 requests done.
+45 requests done.
+46 requests done.
+48 requests done.
+50 requests done.
+52 requests done.
+54 requests done.
+55 requests done.
+56 requests done.
+58 requests done.
+59 requests done.
+61 requests done.
+62 requests done.
+64 requests done.
+66 requests done.
+67 requests done.
+69 requests done.
+71 requests done.
+72 requests done.
+74 requests done.
+75 requests done.
+77 requests done.
+78 requests done.
+80 requests done.
+81 requests done.
+83 requests done.
+85 requests done.
+86 requests done.
+88 requests done.
+90 requests done.
+91 requests done.
+93 requests done.
+94 requests done.
+96 requests done.
+98 requests done.
+99 requests done.
+101 requests done.
+102 requests done.
+104 requests done.
+105 requests done.
+107 requests done.
+108 requests done.
+110 requests done.
+112 requests done.
+113 requests done.
+114 requests done.
+115 requests done.
+116 requests done.
+118 requests done.
+119 requests done.
+120 requests done.
+122 requests done.
+124 requests done.
+125 requests done.
+127 requests done.
+128 requests done.
+129 requests done.
+131 requests done.
+133 requests done.
+134 requests done.
+136 requests done.
+138 requests done.
+140 requests done.
+142 requests done.
+145 requests done.
+146 requests done.
+148 requests done.
+150 requests done.
+152 requests done.
+153 requests done.
+155 requests done.
+157 requests done.
+159 requests done.
+161 requests done.
+162 requests done.
+163 requests done.
+165 requests done.
+167 requests done.
+168 requests done.
+170 requests done.
+171 requests done.
+173 requests done.
+175 requests done.
+176 requests done.
+178 requests done.
+179 requests done.
+180 requests done.
+181 requests done.
+183 requests done.
+184 requests done.
+185 requests done.
+187 requests done.
+189 requests done.
+190 requests done.
+192 requests done.
+194 requests done.
+195 requests done.
+197 requests done.
+199 requests done.
+200 requests done.
+202 requests done.
+204 requests done.
+205 requests done.
+207 requests done.
+208 requests done.
+209 requests done.
+210 requests done.
+211 requests done.
+212 requests done.
+213 requests done.
+214 requests done.
+216 requests done.
+217 requests done.
+218 requests done.
+219 requests done.
+221 requests done.
+223 requests done.
+224 requests done.
+226 requests done.
+227 requests done.
+228 requests done.
+229 requests done.
+231 requests done.
+232 requests done.
+233 requests done.
+235 requests done.
+236 requests done.
+238 requests done.
+239 requests done.
+240 requests done.
+242 requests done.
+243 requests done.
+245 requests done.
+246 requests done.
+247 requests done.
+249 requests done.
+250 requests done.
+252 requests done.
+254 requests done.
+256 requests done.
+258 requests done.
+260 requests done.
+262 requests done.
+264 requests done.
+266 requests done.
+267 requests done.
+269 requests done.
+271 requests done.
+272 requests done.
+274 requests done.
+276 requests done.
+278 requests done.
+280 requests done.
+282 requests done.
+284 requests done.
+286 requests done.
+287 requests done.
+289 requests done.
+290 requests done.
+291 requests done.
+293 requests done.
+294 requests done.
+295 requests done.
+297 requests done.
+299 requests done.
+301 requests done.
+302 requests done.
+304 requests done.
+306 requests done.
+308 requests done.
+310 requests done.
+312 requests done.
+314 requests done.
+316 requests done.
+317 requests done.
+319 requests done.
+321 requests done.
+323 requests done.
+325 requests done.
+326 requests done.
+328 requests done.
+330 requests done.
+331 requests done.
+333 requests done.
+334 requests done.
+336 requests done.
+337 requests done.
+339 requests done.
+340 requests done.
+342 requests done.
+343 requests done.
+344 requests done.
+345 requests done.
+346 requests done.
+348 requests done.
+349 requests done.
+350 requests done.
+352 requests done.
+353 requests done.
+355 requests done.
+357 requests done.
+358 requests done.
+360 requests done.
+361 requests done.
+362 requests done.
+364 requests done.
+366 requests done.
+367 requests done.
+369 requests done.
+370 requests done.
+371 requests done.
+373 requests done.
+375 requests done.
+376 requests done.
+378 requests done.
+380 requests done.
+382 requests done.
+384 requests done.
+385 requests done.
+387 requests done.
+388 requests done.
+390 requests done.
+392 requests done.
+394 requests done.
+396 requests done.
+397 requests done.
+398 requests done.
+400 requests done.
+401 requests done.
+403 requests done.
+404 requests done.
+406 requests done.
+407 requests done.
+408 requests done.
+411 requests done.
+412 requests done.
+414 requests done.
+416 requests done.
+417 requests done.
+419 requests done.
+421 requests done.
+422 requests done.
+423 requests done.
+424 requests done.
+425 requests done.
+426 requests done.
+427 requests done.
+428 requests done.
+430 requests done.
+431 requests done.
+433 requests done.
+435 requests done.
+437 requests done.
+439 requests done.
+440 requests done.
+442 requests done.
+443 requests done.
+445 requests done.
+446 requests done.
+448 requests done.
+449 requests done.
+451 requests done.
+452 requests done.
+453 requests done.
+455 requests done.
+456 requests done.
+458 requests done.
+459 requests done.
+460 requests done.
+462 requests done.
+463 requests done.
+465 requests done.
+466 requests done.
+468 requests done.
+470 requests done.
+471 requests done.
+473 requests done.
+474 requests done.
+475 requests done.
+477 requests done.
+479 requests done.
+481 requests done.
+483 requests done.
+484 requests done.
+486 requests done.
+487 requests done.
+489 requests done.
+491 requests done.
+492 requests done.
+493 requests done.
+494 requests done.
+495 requests done.
+496 requests done.
+498 requests done.
+500 requests done.
+501 requests done.
+503 requests done.
+504 requests done.
+506 requests done.
+508 requests done.
+510 requests done.
+512 requests done.
+513 requests done.
+515 requests done.
+517 requests done.
+519 requests done.
+520 requests done.
+522 requests done.
+524 requests done.
+525 requests done.
+527 requests done.
+529 requests done.
+531 requests done.
+533 requests done.
+534 requests done.
+535 requests done.
+536 requests done.
+538 requests done.
+540 requests done.
+542 requests done.
+544 requests done.
+545 requests done.
+546 requests done.
+548 requests done.
+550 requests done.
+552 requests done.
+554 requests done.
+556 requests done.
+558 requests done.
+560 requests done.
+561 requests done.
+562 requests done.
+563 requests done.
+565 requests done.
+566 requests done.
+568 requests done.
+570 requests done.
+571 requests done.
+572 requests done.
+574 requests done.
+576 requests done.
+578 requests done.
+580 requests done.
+581 requests done.
+584 requests done.
+585 requests done.
+587 requests done.
+589 requests done.
+591 requests done.
+593 requests done.
+595 requests done.
+596 requests done.
+598 requests done.
+600 requests done.
+601 requests done.
+603 requests done.
+605 requests done.
+606 requests done.
+607 requests done.
+609 requests done.
+610 requests done.
+612 requests done.
+613 requests done.
+615 requests done.
+616 requests done.
+618 requests done.
+619 requests done.
+621 requests done.
+623 requests done.
+624 requests done.
+626 requests done.
+627 requests done.
+628 requests done.
+630 requests done.
+632 requests done.
+633 requests done.
+635 requests done.
+636 requests done.
+638 requests done.
+639 requests done.
+640 requests done.
+642 requests done.
+644 requests done.
+645 requests done.
+647 requests done.
+649 requests done.
+650 requests done.
+652 requests done.
+654 requests done.
+656 requests done.
+657 requests done.
+659 requests done.
+661 requests done.
+663 requests done.
+665 requests done.
+667 requests done.
+668 requests done.
+670 requests done.
+672 requests done.
+674 requests done.
+676 requests done.
+677 requests done.
+678 requests done.
+680 requests done.
+682 requests done.
+684 requests done.
+686 requests done.
+687 requests done.
+689 requests done.
+691 requests done.
+693 requests done.
+694 requests done.
+696 requests done.
+698 requests done.
+700 requests done.
+702 requests done.
+704 requests done.
+706 requests done.
+707 requests done.
+709 requests done.
+711 requests done.
+713 requests done.
+714 requests done.
+715 requests done.
+716 requests done.
+718 requests done.
+719 requests done.
+721 requests done.
+723 requests done.
+725 requests done.
+726 requests done.
+728 requests done.
+729 requests done.
+731 requests done.
+733 requests done.
+735 requests done.
+737 requests done.
+739 requests done.
+740 requests done.
+742 requests done.
+743 requests done.
+745 requests done.
+747 requests done.
+749 requests done.
+751 requests done.
+753 requests done.
+754 requests done.
+755 requests done.
+757 requests done.
+759 requests done.
+760 requests done.
+762 requests done.
+764 requests done.
+766 requests done.
+768 requests done.
+769 requests done.
+771 requests done.
+773 requests done.
+775 requests done.
+776 requests done.
+778 requests done.
+780 requests done.
+781 requests done.
+783 requests done.
+785 requests done.
+787 requests done.
+788 requests done.
+790 requests done.
+792 requests done.
+793 requests done.
+794 requests done.
+795 requests done.
+796 requests done.
+798 requests done.
+799 requests done.
+800 requests done.
+801 requests done.
+803 requests done.
+804 requests done.
+806 requests done.
+807 requests done.
+809 requests done.
+811 requests done.
+812 requests done.
+813 requests done.
+815 requests done.
+816 requests done.
+818 requests done.
+820 requests done.
+821 requests done.
+822 requests done.
+823 requests done.
+825 requests done.
+826 requests done.
+828 requests done.
+829 requests done.
+831 requests done.
+832 requests done.
+834 requests done.
+836 requests done.
+838 requests done.
+839 requests done.
+840 requests done.
+841 requests done.
+843 requests done.
+844 requests done.
+846 requests done.
+848 requests done.
+850 requests done.
+852 requests done.
+853 requests done.
+855 requests done.
+856 requests done.
+858 requests done.
+860 requests done.
+861 requests done.
+863 requests done.
+864 requests done.
+866 requests done.
+867 requests done.
+869 requests done.
+871 requests done.
+872 requests done.
+874 requests done.
+876 requests done.
+878 requests done.
+879 requests done.
+881 requests done.
+883 requests done.
+884 requests done.
+887 requests done.
+888 requests done.
+890 requests done.
+892 requests done.
+894 requests done.
+895 requests done.
+896 requests done.
+897 requests done.
+898 requests done.
+900 requests done.
+901 requests done.
+902 requests done.
+904 requests done.
+906 requests done.
+908 requests done.
+909 requests done.
+911 requests done.
+912 requests done.
+913 requests done.
+915 requests done.
+917 requests done.
+918 requests done.
+919 requests done.
+920 requests done.
+922 requests done.
+923 requests done.
+924 requests done.
+925 requests done.
+927 requests done.
+929 requests done.
+931 requests done.
+933 requests done.
+935 requests done.
+938 requests done.
+940 requests done.
+942 requests done.
+944 requests done.
+946 requests done.
+948 requests done.
+950 requests done.
+952 requests done.
+953 requests done.
+955 requests done.
+957 requests done.
+959 requests done.
+961 requests done.
+963 requests done.
+964 requests done.
+965 requests done.
+966 requests done.
+967 requests done.
+968 requests done.
+969 requests done.
+970 requests done.
+971 requests done.
+972 requests done.
+974 requests done.
+975 requests done.
+976 requests done.
+977 requests done.
+979 requests done.
+980 requests done.
+982 requests done.
+983 requests done.
+985 requests done.
+986 requests done.
+987 requests done.
+988 requests done.
+989 requests done.
+990 requests done.
+991 requests done.
+992 requests done.
+993 requests done.
+995 requests done.
+996 requests done.
+997 requests done.
+999 requests done.
+All requests done.
+
+Summary:
+  Total:	327.8109 secs
+  Slowest:	1.4328 secs
+  Fastest:	0.2329 secs
+  Average:	0.3278 secs
+  Requests/sec:	3.0505
+  Total data:	3866000 bytes
+  Size/request:	3866 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.0039 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.5479 secs
+
+	DNS-lookup:
+  		Average:	0.0018 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.4471 secs
+
+	Request Write:
+  		Average:	0.0003 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.0020 secs
+
+	Response Wait:
+  		Average:	0.3209 secs
+  		Fastest:	0.2324 secs
+  		Slowest:	1.4320 secs
+
+	Response Read:
+  		Average:	0.0027 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.5346 secs
+
+Status code distribution:
+  [200]	1000 responses
+
+Response time histogram:
+  0.233 [1]	|
+  0.353 [753]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.473 [168]	|∎∎∎∎∎∎∎∎∎
+  0.593 [44]	|∎∎
+  0.713 [11]	|∎
+  0.833 [10]	|∎
+  0.953 [6]	|
+  1.073 [2]	|
+  1.193 [2]	|
+  1.313 [1]	|
+  1.433 [2]	|
+
+Latency distribution:
+  10% in 0.2398 secs
+  25% in 0.2499 secs
+  50% in 0.2952 secs
+  75% in 0.3508 secs
+  90% in 0.4442 secs
+  95% in 0.5257 secs
+  99% in 0.8701 secs
+client_id=test-client&client_secret=c05426ab-4c8f-4a9f-8281-9d5eee3a84b6&username=testuser&password=password&grant_type=password
+Tokens: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiJkZWVjOWI0YS1hODhmLTRiNjYtODZlMS0yMmJkYWNkYmMxZmYiLCJleHAiOjE0OTIyNDMyMTMsIm5iZiI6MCwiaWF0IjoxNDkxODExMjEzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImI1YWNhM2IzLWFiZjMtNDlmMC1iZWIwLWNjN2FlYTg5MzUwNiIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjQ2Zjk1NjRhLTJiMzctNGIyOC05NThmLTM4NmM2ZGU0ODZkMCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.b4m9T1R-foyX8xbB9JhKfGHjr52QKl_oawYaQHnN_v1Adq9QTbLb4vOTRU7MINZ1BjKBjvBTbpKAd8rC2gtSptr1GLWOhnoz53MuE9CzQPQ09bxPNOER1jUVpH7q_jYVw8dtBJbMg9BGKEWIJV1BXSedN_qyvEeKPusyBBBC6edo7OyGyvYe3N4fgFsvl6ykN-9dnmlk4zb6BtGORK2ph6MeV32NINX63q_jbxkXXwxpUsxxRbbgyV--ynfC-9dMGc09ft1UnVx3SS4FmD__kSmjKrlT5t9rLzZo5ICLLUdz7NDqj06srsc0AgrXjxQG-6ofCRbpqDhxFVWcNKIz4g","expires_in":432000,"refresh_expires_in":1800,"refresh_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI0ZTViY2Y4Ni0zOTlkLTQ4ZWUtYjM5OC05NmM4NGVkN2Y0YjIiLCJleHAiOjE0OTE4MTMwMTMsIm5iZiI6MCwiaWF0IjoxNDkxODExMjEzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoidGVzdC1jbGllbnQiLCJhdXRoX3RpbWUiOjAsInNlc3Npb25fc3RhdGUiOiJiNWFjYTNiMy1hYmYzLTQ5ZjAtYmViMC1jYzdhZWE4OTM1MDYiLCJjbGllbnRfc2Vzc2lvbiI6IjQ2Zjk1NjRhLTJiMzctNGIyOC05NThmLTM4NmM2ZGU0ODZkMCIsInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19fQ.bpd1fim3m8fp6FqoNaSyEFNgjPJNqNY9ThMXW8Gaa40-rN0HIpoDF0zmggU6P6sgNkUeOWuZ1bsAU9EubayY-yKPiogyAs-5uYaZiDLN-nZe_sX3xeHcL0Sygrcwd0DO-EaKs0zqYn0v63NkaIS8lFSYtTt1sHcQD25N2krSvblVVPD01zNmb0NXcbzJ_9GJiYU5mASEnsshdCef0g4-ITC9ubCfvpYPZWqQIyDrXkMnpPXH6AkEi5Yb93Hw3cR0FQjM3n90uH4_6KTDWtl2icrnjQILe6W0SIGl0-077SyIdIC7og7nETCIGPRFSLL86tt_JdgbwCTj571scchlbA","token_type":"bearer","id_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI1YWJjZjA4ZC04YjViLTQzN2EtYjNhMy0zZjY3MTU4ZDk1YTMiLCJleHAiOjE0OTIyNDMyMTMsIm5iZiI6MCwiaWF0IjoxNDkxODExMjEzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJJRCIsImF6cCI6InRlc3QtY2xpZW50IiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiYjVhY2EzYjMtYWJmMy00OWYwLWJlYjAtY2M3YWVhODkzNTA2IiwiYWNyIjoiMSIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImdpdmVuX25hbWUiOiJ0ZXN0dXNlciJ9.ULMb7b2GvgIC2KI5KpjlPf-glcPxGC1Z_BlNN7jOJIb8n437gFa5iw5l_0hWwU-xR1cGb9QJf7_SbsRnT-ysLF-E8JI5rRNhsMhCb12sVrbREEk9SBMBdUKNYpKl0n8wRR7LK0iqLHoYOCZn6EMlhGYiL_XnP6pdoDyvm1YddbJA5jDwCkLrvJYEO1KmAmf-ISzMA6Y-u4WW6EzzxUjYbXsEgBlP5b4Y8200LuUTCnXI0cCK3YTnJLAxVYxwUJ7bZabKeDunY2Fl0v-vSf2BO_ydI7G2mDFgAjTjFCVRT3A6yZ668FXE_zXMUuOkeK0Vdia_8jn5DNfgqJ1C5tuPKg","not-before-policy":0,"session_state":"b5aca3b3-abf3-49f0-beb0-cc7aea893506"}
+Access token: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiJkZWVjOWI0YS1hODhmLTRiNjYtODZlMS0yMmJkYWNkYmMxZmYiLCJleHAiOjE0OTIyNDMyMTMsIm5iZiI6MCwiaWF0IjoxNDkxODExMjEzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImI1YWNhM2IzLWFiZjMtNDlmMC1iZWIwLWNjN2FlYTg5MzUwNiIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjQ2Zjk1NjRhLTJiMzctNGIyOC05NThmLTM4NmM2ZGU0ODZkMCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.b4m9T1R-foyX8xbB9JhKfGHjr52QKl_oawYaQHnN_v1Adq9QTbLb4vOTRU7MINZ1BjKBjvBTbpKAd8rC2gtSptr1GLWOhnoz53MuE9CzQPQ09bxPNOER1jUVpH7q_jYVw8dtBJbMg9BGKEWIJV1BXSedN_qyvEeKPusyBBBC6edo7OyGyvYe3N4fgFsvl6ykN-9dnmlk4zb6BtGORK2ph6MeV32NINX63q_jbxkXXwxpUsxxRbbgyV--ynfC-9dMGc09ft1UnVx3SS4FmD__kSmjKrlT5t9rLzZo5ICLLUdz7NDqj06srsc0AgrXjxQG-6ofCRbpqDhxFVWcNKIz4g
+{"rpt":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiJkZWVjOWI0YS1hODhmLTRiNjYtODZlMS0yMmJkYWNkYmMxZmYiLCJleHAiOjE0OTIyNDMyMTMsIm5iZiI6MCwiaWF0IjoxNDkxODExMjEzLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImI1YWNhM2IzLWFiZjMtNDlmMC1iZWIwLWNjN2FlYTg5MzUwNiIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjQ2Zjk1NjRhLTJiMzctNGIyOC05NThmLTM4NmM2ZGU0ODZkMCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJhdXRob3JpemF0aW9uIjp7InBlcm1pc3Npb25zIjpbeyJzY29wZXMiOlsiYWRtaW4iXSwicmVzb3VyY2Vfc2V0X2lkIjoiNTU4NmQzYTYtOTA1My00OGNjLTgzYjUtNWE0MzM5YWE2YTA2IiwicmVzb3VyY2Vfc2V0X25hbWUiOiJNeVNwYWNlIn1dfX0.OFWPO4KGPjrdzrRnx_vsPP1yqSIKPAmGe436c9k3jiOPHsNkDUWxEWq9LCdUXRav0UwFBK-ATPOodWYiYms3wiTDQpl4UZBjDi7kkalQcYS8DnsuFxgql9Ft9DgtzyZn3SBIP-DZcKIDq1yh9FIFh3NzTd_-H-Sx19Ho6HBk8t-mpmF4SycQmvU6o6Wd47PE0k9TCvAcgVmC2lDse5cUlB1VNFw-R52y-Ru_Vly4RdEp8m_0zNIEn0pQfZwG9L-PD-KWiYlKrvQr28v9OZiFRHLRacmAHygnb-hVXDCuQglx5Jh33qF96RLS5LweahaTYxO5gyAOGGhTFH2VLHgQOA"}100
+28 requests done.
+65 requests done.
+88 requests done.
+97 requests done.
+99 requests done.
+All requests done.
+
+Summary:
+  Total:	3.3752 secs
+  Slowest:	1.0676 secs
+  Fastest:	0.1136 secs
+  Average:	0.2482 secs
+  Requests/sec:	29.6277
+  Total data:	158800 bytes
+  Size/request:	1588 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.0515 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.5268 secs
+
+	DNS-lookup:
+  		Average:	0.0405 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.4052 secs
+
+	Request Write:
+  		Average:	0.0004 secs
+  		Fastest:	0.0001 secs
+  		Slowest:	0.0026 secs
+
+	Response Wait:
+  		Average:	0.1934 secs
+  		Fastest:	0.1130 secs
+  		Slowest:	0.8139 secs
+
+	Response Read:
+  		Average:	0.0028 secs
+  		Fastest:	0.0001 secs
+  		Slowest:	0.2533 secs
+
+Status code distribution:
+  [200]	100 responses
+
+Response time histogram:
+  0.114 [1]	|∎
+  0.209 [76]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.304 [1]	|∎
+  0.400 [0]	|
+  0.495 [0]	|
+  0.591 [9]	|∎∎∎∎∎
+  0.686 [9]	|∎∎∎∎∎
+  0.781 [3]	|∎∎
+  0.877 [0]	|
+  0.972 [0]	|
+  1.068 [1]	|∎
+
+Latency distribution:
+  10% in 0.1198 secs
+  25% in 0.1283 secs
+  50% in 0.1543 secs
+  75% in 0.1990 secs
+  90% in 0.6378 secs
+  95% in 0.6788 secs
+  99% in 1.0676 secs
+client_id=test-client&client_secret=c05426ab-4c8f-4a9f-8281-9d5eee3a84b6&username=testuser&password=password&grant_type=password
+Tokens: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI0YTg2MzY3MS0zODAyLTQyMDgtYjFhYy1hOTI3ZDBiOTA1NGUiLCJleHAiOjE0OTIyNDM1MjAsIm5iZiI6MCwiaWF0IjoxNDkxODExNTIwLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImZmNjEyOTU4LTA3ZmMtNGZhOC1iYWUyLTRkODViZmFmZTY2ZiIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjIzNzFmYjgwLTFjYTYtNDM2YS1iOTE4LWUxNzE4YTUyN2ExZSIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.SQnyKGpv2Y8gqbWmLP5omMBBkf5uO0MiHWLQbv5kFtqb1kTqMdHTQoTLzbG2BUUaiV8ZMGmY8-L7wgHfESlwg_NoyC_nkYxnUq6FOSGW4Yt5nMxfQPMdkPV9xOk37r2ht0o07Sm3kxJ38uH2hX___3RIK2FzeGTzRxm42Xz70KdjYhqlmaK5yt-hxEdYjtU-veRToVLCez83dU5cB4CGpx8FBEkDdV5o8Zco_pNY8WNppb-OAVqprpIm6cQ_PfLPUWDIXxtXeB5irUACD4XZl_PWpDRWzzG9VHIu1b_qJPfCbrd0LK5kOsqxlC_W4xjEgwYO-2sYwHcOiFF8cOCTEw","expires_in":432000,"refresh_expires_in":1800,"refresh_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI5MDVhNjIwNC1kZjNmLTQ2NTQtYmEzNS1mN2VlN2M0MzZiOWYiLCJleHAiOjE0OTE4MTMzMjAsIm5iZiI6MCwiaWF0IjoxNDkxODExNTIwLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoidGVzdC1jbGllbnQiLCJhdXRoX3RpbWUiOjAsInNlc3Npb25fc3RhdGUiOiJmZjYxMjk1OC0wN2ZjLTRmYTgtYmFlMi00ZDg1YmZhZmU2NmYiLCJjbGllbnRfc2Vzc2lvbiI6IjIzNzFmYjgwLTFjYTYtNDM2YS1iOTE4LWUxNzE4YTUyN2ExZSIsInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19fQ.Skeb-g55EUmSk1wbZgueX8ysbQqh-8SINPwklDh9fJOEkPzv19vLrRkfTulD6IP3hr31zv14NRX7iMEimCn2UvRNlMWmDC1mAI8uBcjKgWkQ0ct1nwKZxPuYxYkcBHOj7hK8tpjv7B3Pb0y_8Jo6sBrej4UbmWRl9feBixmopuxhS-KoVoh7PtgcNaa6LTNmkL0b7NSS-sE96i9_FC8S2bcJyYkva7Yb_gSbJjwgkK_K5tERDxSkzp25pkfFgqrKqaqFKNCB1iZ7EKhJkbeIRauoZMSnXlk_gRbIxzIKqOgWaqvEJlJ3LCgzgBjV-giikYbh7wtlZNRVxpAOZn5rWA","token_type":"bearer","id_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIzOGEyYTk2ZC1kYjVhLTQxNTctYjhjYy1jYjg1YjhiMTdiMDMiLCJleHAiOjE0OTIyNDM1MjAsIm5iZiI6MCwiaWF0IjoxNDkxODExNTIwLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJJRCIsImF6cCI6InRlc3QtY2xpZW50IiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiZmY2MTI5NTgtMDdmYy00ZmE4LWJhZTItNGQ4NWJmYWZlNjZmIiwiYWNyIjoiMSIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImdpdmVuX25hbWUiOiJ0ZXN0dXNlciJ9.GmJ514OE8Fvyqf2RjUtf8REEsBZo0bSsa6NkZuzQGmb3PkRZKXi-w5OiwEH61sxG7v1ZhZU8qsUVFpnbpFqKa2Pc3MIe9MOr64JV9yZJChwYMtfdvPUTHs0kWYrp29FNDhHp_Duj9W9EWEhwhtETltaLIWUvbTpizMQLmqZhp7EIZ4wjVhdZcyOvnJrPxVB6sX_YLmC0Vn7DcwmzpbhLID2X2BRzaSuvFZVFr29O_S984KVGnOj0aTM1_OwT6gGYoHC28U_NqRTTutwP0gGJdeNV0d84EYXJ1f5Xn76MfR3d30DelEUcQjxUPzTah1CutFbwVUn8Y0p2GhwikTnC7A","not-before-policy":0,"session_state":"ff612958-07fc-4fa8-bae2-4d85bfafe66f"}
+Access token: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI0YTg2MzY3MS0zODAyLTQyMDgtYjFhYy1hOTI3ZDBiOTA1NGUiLCJleHAiOjE0OTIyNDM1MjAsIm5iZiI6MCwiaWF0IjoxNDkxODExNTIwLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImZmNjEyOTU4LTA3ZmMtNGZhOC1iYWUyLTRkODViZmFmZTY2ZiIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjIzNzFmYjgwLTFjYTYtNDM2YS1iOTE4LWUxNzE4YTUyN2ExZSIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.SQnyKGpv2Y8gqbWmLP5omMBBkf5uO0MiHWLQbv5kFtqb1kTqMdHTQoTLzbG2BUUaiV8ZMGmY8-L7wgHfESlwg_NoyC_nkYxnUq6FOSGW4Yt5nMxfQPMdkPV9xOk37r2ht0o07Sm3kxJ38uH2hX___3RIK2FzeGTzRxm42Xz70KdjYhqlmaK5yt-hxEdYjtU-veRToVLCez83dU5cB4CGpx8FBEkDdV5o8Zco_pNY8WNppb-OAVqprpIm6cQ_PfLPUWDIXxtXeB5irUACD4XZl_PWpDRWzzG9VHIu1b_qJPfCbrd0LK5kOsqxlC_W4xjEgwYO-2sYwHcOiFF8cOCTEw
+{"rpt":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI0YTg2MzY3MS0zODAyLTQyMDgtYjFhYy1hOTI3ZDBiOTA1NGUiLCJleHAiOjE0OTIyNDM1MjAsIm5iZiI6MCwiaWF0IjoxNDkxODExNTIwLCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6ImZmNjEyOTU4LTA3ZmMtNGZhOC1iYWUyLTRkODViZmFmZTY2ZiIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjIzNzFmYjgwLTFjYTYtNDM2YS1iOTE4LWUxNzE4YTUyN2ExZSIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJhdXRob3JpemF0aW9uIjp7InBlcm1pc3Npb25zIjpbeyJzY29wZXMiOlsiYWRtaW4iXSwicmVzb3VyY2Vfc2V0X2lkIjoiNTU4NmQzYTYtOTA1My00OGNjLTgzYjUtNWE0MzM5YWE2YTA2IiwicmVzb3VyY2Vfc2V0X25hbWUiOiJNeVNwYWNlIn1dfX0.Q2OQA73M-GMqAgaf3TfuN54ugm06rBSfSlk9Siw68rJtpeWjhY6cm_X9z77E3Hyf5z1noV7UKBF6CPMxDI9pgve18xy2sI8t3YbVDmgC53LWMtDs1zYruqh2mXheqe5nTEHA6NkNJEtmDV_QR1GtCaj1xumB4B7SQyS_laCw2WLPw-8iBgAF-kBPWdjg-dDkM3vnzXf_XWoS1L4Iey64YEaFuZP927sQ9xDERoYzXGq_1AdIMDTkR-P5YHatFBKESPutPPkRlim1E_pXPNLPJlMCYUcPbBa57YUXEmgaDbTy9r4dEIF0mXYsHZsD1JKY7H7GYsPNLsHNpbWXz_lwZw"}1000
+7 requests done.
+120 requests done.
+209 requests done.
+311 requests done.
+403 requests done.
+500 requests done.
+629 requests done.
+712 requests done.
+778 requests done.
+843 requests done.
+921 requests done.
+930 requests done.
+931 requests done.
+932 requests done.
+939 requests done.
+954 requests done.
+968 requests done.
+993 requests done.
+999 requests done.
+All requests done.
+
+Summary:
+  Total:	23.8465 secs
+  Slowest:	2.5811 secs
+  Fastest:	0.1155 secs
+  Average:	0.5013 secs
+  Requests/sec:	41.5575
+  Total data:	1573708 bytes
+  Size/request:	1588 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.0239 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.5253 secs
+
+	DNS-lookup:
+  		Average:	0.0081 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.4243 secs
+
+	Request Write:
+  		Average:	0.0005 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.0163 secs
+
+	Response Wait:
+  		Average:	0.4741 secs
+  		Fastest:	0.1136 secs
+  		Slowest:	1.0751 secs
+
+	Response Read:
+  		Average:	0.0027 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	2.2549 secs
+
+Status code distribution:
+  [200]	991 responses
+
+Response time histogram:
+  0.116 [1]	|
+  0.362 [254]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.609 [453]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.855 [255]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  1.102 [25]	|∎∎
+  1.348 [2]	|
+  1.595 [0]	|
+  1.841 [0]	|
+  2.088 [0]	|
+  2.335 [0]	|
+  2.581 [1]	|
+
+Latency distribution:
+  10% in 0.2726 secs
+  25% in 0.3581 secs
+  50% in 0.4876 secs
+  75% in 0.6340 secs
+  90% in 0.7324 secs
+  95% in 0.8292 secs
+  99% in 0.9349 secs
+
+Error distribution:
+  [9]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+client_id=test-client&client_secret=c05426ab-4c8f-4a9f-8281-9d5eee3a84b6&username=testuser&password=password&grant_type=password
+Tokens: {"access_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIwMzNhNWQxMy03YWNjLTRkYjQtYjJmNC1lZjM1MTFkOWVmNzAiLCJleHAiOjE0OTIyNDM4NDQsIm5iZiI6MCwiaWF0IjoxNDkxODExODQ0LCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjFiOGU4ZWI1LTgxYTctNGZkYi05OWQwLWQ5NWU4ZjhiMDVlNCIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjBhYTYwNDMyLWE2YWYtNGJjZi1iNjRlLTBjZmVhOTRkMDk1OCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.Jrnszs6YHtEhotI1gdK7XQyRHv9q_j3ztmSyTJOwgnU1qPbENp5OOpGO5f4zoAOGqdIK6S4kCrqH39vP70_HSd7p8OfnBG10k_YK-EL8_WWVxA9HGL_yCDmbv2VXlpPs1H-BuEf_eKiig7ZkCrq851ZaNGkhRU9RlJ_b2E4wrF5YMxSImf_xF9LyyJv5J5eTfUUYJVNre5JHwlR5FkhuAFhrm1RW0UsPhp_Z4b8r0oixhunLfO9Dqge29aV2aXNaijTVRqfvTCUziyGsXLm8gRdZQ3g2XNjTyoT3M65N7NqT2xSZbz6Re5rUND9Jy7iWBKP5l1hZLmbDSa-yfYvIMA","expires_in":432000,"refresh_expires_in":1800,"refresh_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI3NmE3NzI5Ni04OTQ5LTQwZGMtYTQzYi1kZTJkYWJlNjBmNzAiLCJleHAiOjE0OTE4MTM2NDQsIm5iZiI6MCwiaWF0IjoxNDkxODExODQ0LCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJSZWZyZXNoIiwiYXpwIjoidGVzdC1jbGllbnQiLCJhdXRoX3RpbWUiOjAsInNlc3Npb25fc3RhdGUiOiIxYjhlOGViNS04MWE3LTRmZGItOTlkMC1kOTVlOGY4YjA1ZTQiLCJjbGllbnRfc2Vzc2lvbiI6IjBhYTYwNDMyLWE2YWYtNGJjZi1iNjRlLTBjZmVhOTRkMDk1OCIsInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19fQ.jUShRfE5MJvZBe7jhGMkEg23L3aq9pchzEFlpNa3VS9YlTf24vka2fmwJTjumziPDP5msl_UmGTl1VbM-qLNJmvEgaQG4MnSYzeADDRYi7rnO5ZaIkLpJqO_ELlp1w-IFSZxoG3rYN_9vDJAS7NlB6KK6pTY2RFYZeD5bBD9nrrx6GuA0P7eEO0iONkn4f9Ek010sA2Y8jCZWAYdBQMIX7IQ_z0fy1_uO2Qc0T0nQsjtOEYJ6UHi1fw-cjuL7JhJRTYXSALBWrGqtyzqHp_0QRmz5Ra6C4VgkGjVWynr1Rbj7JeIhdawDA2Gnx2SWFalWXRR0-nRC2CpCEI4sSMh2w","token_type":"bearer","id_token":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiI0Y2U1N2Y3Mi02MjQwLTQ2OWUtYjEyNy05ZWI3MGE1OGY4MGMiLCJleHAiOjE0OTIyNDM4NDQsIm5iZiI6MCwiaWF0IjoxNDkxODExODQ0LCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJJRCIsImF6cCI6InRlc3QtY2xpZW50IiwiYXV0aF90aW1lIjowLCJzZXNzaW9uX3N0YXRlIjoiMWI4ZThlYjUtODFhNy00ZmRiLTk5ZDAtZDk1ZThmOGIwNWU0IiwiYWNyIjoiMSIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImdpdmVuX25hbWUiOiJ0ZXN0dXNlciJ9.I-QK9OxmjXfBDZeWrfM-8QK82LSovOHEDe2IBAglqMrcws16_6Zy5gTBQSG4AEM2BwlNInt6uzJWd-zmA0kHeoAG7WyIw9bT-SUXiiMxuvU0r6SCi_SZZLuhluPLWvsO6aWKMHxUy0M2V7tz54OAs2GLuG0UTEKc1r3x-ML8vvMzOWIei1FiWHLJ-k2tIIwcWwXElNVsy35c_FKVuATz6sAZp3EyUJ_NFPzklNkOVpKNO0UO9RpeTCMw5U9dsVuoEnPhAOIpUDzyOkAt-qs8WLqscaJzbcLEbyMFCBgFFtbU8DmtQxGbiA0PwVUO1cC3hba5cWFICeiQVwPdkW_IuQ","not-before-policy":0,"session_state":"1b8e8eb5-81a7-4fdb-99d0-d95e8f8b05e4"}
+Access token: eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIwMzNhNWQxMy03YWNjLTRkYjQtYjJmNC1lZjM1MTFkOWVmNzAiLCJleHAiOjE0OTIyNDM4NDQsIm5iZiI6MCwiaWF0IjoxNDkxODExODQ0LCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjFiOGU4ZWI1LTgxYTctNGZkYi05OWQwLWQ5NWU4ZjhiMDVlNCIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjBhYTYwNDMyLWE2YWYtNGJjZi1iNjRlLTBjZmVhOTRkMDk1OCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJuYW1lIjoidGVzdHVzZXIgIiwicHJlZmVycmVkX3VzZXJuYW1lIjoidGVzdHVzZXIiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIifQ.Jrnszs6YHtEhotI1gdK7XQyRHv9q_j3ztmSyTJOwgnU1qPbENp5OOpGO5f4zoAOGqdIK6S4kCrqH39vP70_HSd7p8OfnBG10k_YK-EL8_WWVxA9HGL_yCDmbv2VXlpPs1H-BuEf_eKiig7ZkCrq851ZaNGkhRU9RlJ_b2E4wrF5YMxSImf_xF9LyyJv5J5eTfUUYJVNre5JHwlR5FkhuAFhrm1RW0UsPhp_Z4b8r0oixhunLfO9Dqge29aV2aXNaijTVRqfvTCUziyGsXLm8gRdZQ3g2XNjTyoT3M65N7NqT2xSZbz6Re5rUND9Jy7iWBKP5l1hZLmbDSa-yfYvIMA
+{"rpt":"eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJqWW1QU2ppNlFlc2hPbi1OYnl3eXRRLUY0UVdScnpINmJkbWhjTWozeHl3In0.eyJqdGkiOiIwMzNhNWQxMy03YWNjLTRkYjQtYjJmNC1lZjM1MTFkOWVmNzAiLCJleHAiOjE0OTIyNDM4NDQsIm5iZiI6MCwiaWF0IjoxNDkxODExODQ0LCJpc3MiOiJodHRwOi8va2V5Y2xvYWsta2V5Y2xvYWstY2x1c3Rlci10ZXN0LmI2ZmYucmgtaWRldi5vcGVuc2hpZnRhcHBzLmNvbS9hdXRoL3JlYWxtcy90ZXN0IiwiYXVkIjoidGVzdC1jbGllbnQiLCJzdWIiOiIyY2Q3ZjMyOS1lYjFhLTQ4MDgtYTQxZC1lOGVkNDA5NjAwMTQiLCJ0eXAiOiJCZWFyZXIiLCJhenAiOiJ0ZXN0LWNsaWVudCIsImF1dGhfdGltZSI6MCwic2Vzc2lvbl9zdGF0ZSI6IjFiOGU4ZWI1LTgxYTctNGZkYi05OWQwLWQ5NWU4ZjhiMDVlNCIsIm5hbWUiOiJ0ZXN0dXNlciAiLCJnaXZlbl9uYW1lIjoidGVzdHVzZXIiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJ0ZXN0dXNlciIsImFjciI6IjEiLCJjbGllbnRfc2Vzc2lvbiI6IjBhYTYwNDMyLWE2YWYtNGJjZi1iNjRlLTBjZmVhOTRkMDk1OCIsImFsbG93ZWQtb3JpZ2lucyI6W10sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7InRlc3QtY2xpZW50Ijp7InJvbGVzIjpbInVtYV9wcm90ZWN0aW9uIl19LCJhY2NvdW50Ijp7InJvbGVzIjpbIm1hbmFnZS1hY2NvdW50IiwibWFuYWdlLWFjY291bnQtbGlua3MiLCJ2aWV3LXByb2ZpbGUiXX19LCJhdXRob3JpemF0aW9uIjp7InBlcm1pc3Npb25zIjpbeyJzY29wZXMiOlsiYWRtaW4iXSwicmVzb3VyY2Vfc2V0X2lkIjoiNTU4NmQzYTYtOTA1My00OGNjLTgzYjUtNWE0MzM5YWE2YTA2IiwicmVzb3VyY2Vfc2V0X25hbWUiOiJNeVNwYWNlIn1dfX0.ocMRhs-Y-3b11ioIeGLaF3jsJFnbOQDQq33CsipkZTGPw0svUr_EvyRMeDH1FV5e4b0INzSGWwL_lDTzxhFiejcLyl0GTTqVOGp1uiGEA6r7QT-2lYnETBQ5YzwQZvy9njbaBKbca6xXs8yZN_rFuhYxah_zqIuO5A8tWC_ejzA-Xo3ZzLMuFiZUlaI_2F58jzArx_F39gI174QyZfPa9cM2rCn-dOEtPcKBJL0usQP8PPT0rc58R5HxB-1xIQHMeQVxLf-arRIO3ZIciLed52mpaVUPkwQm6PGeAfhs3WJyaNCFwinZwyNKlkwYZUQuNnetBw_RNm7htAuDtNLHcQ"}10000
+12 requests done.
+227 requests done.
+318 requests done.
+507 requests done.
+628 requests done.
+765 requests done.
+874 requests done.
+982 requests done.
+1024 requests done.
+1075 requests done.
+1107 requests done.
+1140 requests done.
+1257 requests done.
+1351 requests done.
+1464 requests done.
+1477 requests done.
+1530 requests done.
+1550 requests done.
+1591 requests done.
+1664 requests done.
+1680 requests done.
+1813 requests done.
+1824 requests done.
+1902 requests done.
+1926 requests done.
+1931 requests done.
+1961 requests done.
+2029 requests done.
+2169 requests done.
+2217 requests done.
+2243 requests done.
+2265 requests done.
+2347 requests done.
+2388 requests done.
+2426 requests done.
+2460 requests done.
+2514 requests done.
+2563 requests done.
+2565 requests done.
+2729 requests done.
+2813 requests done.
+2968 requests done.
+3058 requests done.
+3167 requests done.
+3216 requests done.
+3252 requests done.
+3428 requests done.
+3520 requests done.
+3666 requests done.
+3733 requests done.
+3867 requests done.
+3997 requests done.
+4117 requests done.
+4222 requests done.
+4340 requests done.
+4431 requests done.
+4535 requests done.
+4625 requests done.
+4689 requests done.
+4764 requests done.
+4815 requests done.
+4949 requests done.
+5066 requests done.
+5198 requests done.
+5293 requests done.
+5416 requests done.
+5549 requests done.
+5589 requests done.
+5631 requests done.
+5811 requests done.
+5923 requests done.
+6031 requests done.
+6169 requests done.
+6289 requests done.
+6416 requests done.
+6511 requests done.
+6529 requests done.
+6688 requests done.
+6806 requests done.
+6942 requests done.
+7006 requests done.
+7078 requests done.
+7108 requests done.
+7172 requests done.
+7244 requests done.
+7345 requests done.
+7349 requests done.
+7350 requests done.
+7425 requests done.
+7506 requests done.
+7637 requests done.
+7897 requests done.
+8093 requests done.
+8284 requests done.
+8493 requests done.
+8705 requests done.
+8814 requests done.
+8944 requests done.
+9054 requests done.
+9055 requests done.
+9276 requests done.
+9377 requests done.
+9444 requests done.
+9480 requests done.
+9606 requests done.
+9665 requests done.
+9772 requests done.
+9804 requests done.
+9805 requests done.
+9825 requests done.
+9871 requests done.
+9983 requests done.
+9986 requests done.
+9999 requests done.
+All requests done.
+
+Summary:
+  Total:	63.7464 secs
+  Slowest:	15.3859 secs
+  Fastest:	0.1262 secs
+  Average:	5.3138 secs
+  Requests/sec:	156.5735
+  Total data:	15849828 bytes
+  Size/request:	1588 bytes
+
+Detailed Report:
+
+	DNS+dialup:
+  		Average:	0.7632 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	10.2364 secs
+
+	DNS-lookup:
+  		Average:	0.6039 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	10.0179 secs
+
+	Request Write:
+  		Average:	0.0022 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	0.0893 secs
+
+	Response Wait:
+  		Average:	4.4980 secs
+  		Fastest:	0.1254 secs
+  		Slowest:	14.5740 secs
+
+	Response Read:
+  		Average:	0.0497 secs
+  		Fastest:	0.0000 secs
+  		Slowest:	5.2119 secs
+
+Status code distribution:
+  [200]	9981 responses
+
+Response time histogram:
+  0.126 [1]	|
+  1.652 [341]	|∎∎∎∎∎∎
+  3.178 [2237]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  4.704 [2437]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  6.230 [1346]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  7.756 [1570]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  9.282 [1262]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  10.808 [746]	|∎∎∎∎∎∎∎∎∎∎∎∎
+  12.334 [28]	|
+  13.860 [6]	|
+  15.386 [7]	|
+
+Latency distribution:
+  10% in 2.3403 secs
+  25% in 3.1140 secs
+  50% in 4.6881 secs
+  75% in 7.3624 secs
+  90% in 9.0270 secs
+  95% in 9.5843 secs
+  99% in 10.4049 secs
+
+Error distribution:
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:32794->52.3.37.96:80: read: connection reset by peer
+  [11]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: net/http: request canceled (Client.Timeout exceeded while awaiting headers)
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:36670->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:59816->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:60100->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:32912->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:36578->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:32994->52.3.37.96:80: read: connection reset by peer
+  [1]	Post http://keycloak-keycloak-cluster-test.b6ff.rh-idev.openshiftapps.com/auth/realms/test/authz/entitlement/test-client: read tcp 192.168.1.75:32836->52.3.37.96:80: read: connection reset by peer
